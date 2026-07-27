@@ -16,7 +16,7 @@ installed and logged in (`az login`) to run these.
 # unique across all of Azure, lowercase letters/numbers only.
 RG=oss-assistant-rg
 LOCATION=eastus
-ACR_NAME=ossassistantacr123      # <-- must be globally unique, change this
+ACR_NAME=ossasshuaweiacr123      # <-- must be globally unique, change this
 CONTAINERAPP_ENV=oss-assistant-env
 CONTAINERAPP_NAME=oss-assistant
 
